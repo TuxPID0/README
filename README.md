@@ -8,7 +8,7 @@ Mostly focused on the Blue Team side: SIEM triage with Splunk, phishing analysis
 Currently working through the **Google Cybersecurity Certificate**, with **CompTIA Security+** next on the roadmap.
 
 ### Write-ups
-* **[Log Analysis with SIEM (Splunk)](link-catre-articol)** — Three incidents in one Splunk instance: a Sysmon intrusion, a Linux cron backdoor, and a WordPress brute-force campaign.
+* **[Log Analysis with SIEM (Splunk)](https://tuxpid0.github.io)** — Three incidents in one Splunk instance: a Sysmon intrusion, a Linux cron backdoor, and a WordPress brute-force campaign.
 
 ### Tools I use
 `Splunk` `Wireshark` `Nmap` `Burp Suite` `Snort` `Linux` `Python` `SQL` 
